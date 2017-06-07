@@ -1,6 +1,0 @@
-/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Runtime/netcoreapp2.0/NittietFirstTest.deps.json
-/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Runtime/netcoreapp2.0/NittietFirstTest.runtimeconfig.json
-/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Runtime/netcoreapp2.0/NittietFirstTest.runtimeconfig.dev.json
-/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Runtime/netcoreapp2.0/NittietFirstTest.csproj.CoreCompileInputs.cache
-/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Runtime/netcoreapp2.0/UserSecretsAssemblyInfo.cs
-/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Runtime/netcoreapp2.0/NittietFirstTest.AssemblyInfo.cs
