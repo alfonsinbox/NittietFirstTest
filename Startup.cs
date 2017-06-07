@@ -105,8 +105,8 @@ namespace NittietFirstTest
                 //app.UseApplicationInsightsRequestTelemetry();
             }
 
-            var secretKey = Environment.GetEnvironmentVariable("JWT_SIGNING_KEY");
-            var signingKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(secretKey));
+            /*var secretKey = Environment.GetEnvironmentVariable("JWT_SIGNING_KEY");
+            var signingKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(secretKey));*/
 
             /*var tokenValidationParameters = new TokenValidationParameters
             {
