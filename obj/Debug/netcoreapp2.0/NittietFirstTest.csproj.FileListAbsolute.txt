@@ -1,0 +1,12 @@
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Debug/netcoreapp2.0/NittietFirstTest.deps.json
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Debug/netcoreapp2.0/NittietFirstTest.runtimeconfig.json
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Debug/netcoreapp2.0/NittietFirstTest.runtimeconfig.dev.json
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Debug/netcoreapp2.0/NittietFirstTest.dll
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/bin/Debug/netcoreapp2.0/NittietFirstTest.pdb
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Debug/netcoreapp2.0/NittietFirstTest.csprojResolveAssemblyReference.cache
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Debug/netcoreapp2.0/NittietFirstTest.csproj.CoreCompileInputs.cache
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Debug/netcoreapp2.0/NittietFirstTest.AssemblyInfo.cs
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Debug/netcoreapp2.0/NittietFirstTest.dll
+/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/Debug/netcoreapp2.0/NittietFirstTest.pdb

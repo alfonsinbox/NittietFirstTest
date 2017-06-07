@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/NittietFirstTest.csproj",
+    "projectName": "NittietFirstTest",
+    "projectPath": "/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/NittietFirstTest.csproj",
+    "outputPath": "/Users/alfonslange/Documents/Dotnet/Development/NittietFirstTest/NittietFirstTest/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0-preview1-002111-00"
+        },
+        "AutoMapper": {
+          "target": "Package",
+          "version": "6.0.2"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0-preview1-final"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "2.0.0-preview1-final"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.0-preview1-final"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+          "target": "Package",
+          "version": "2.0.0-preview1-final"
+        },
+        "System.Runtime": {
+          "target": "Package",
+          "version": "4.3.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ]
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    },
+    "win-x64": {
+      "#import": []
+    },
+    "win-x86": {
+      "#import": []
+    }
+  }
+}
